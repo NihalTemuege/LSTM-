@@ -1,2 +1,2 @@
-# LSTM
+# LSTMm
 Long Short Term Memory Model for Inflation Forecasting
